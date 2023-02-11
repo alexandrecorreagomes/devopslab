@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def pagina_inicial():
-    return "DevOps - Deploy de aplicação Python"
+    return "DevOps - Deploy de aplicação Python new"
